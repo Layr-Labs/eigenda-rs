@@ -1,0 +1,11 @@
+[package]
+name = "eigenda-contract-bindings"
+version = "0.1.0"
+authors.workspace = true
+description.workspace = true
+repository.workspace = true
+license.workspace = true
+edition.workspace = true
+
+[dependencies]
+alloy = { version = "0.13" }
